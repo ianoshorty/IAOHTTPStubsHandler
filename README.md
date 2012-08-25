@@ -50,7 +50,8 @@ Built and tested on iOS 5.1 only.  Should be backwards compatible to iOS 5.0.
 
 ```
 
-6. Alter the mappings.json file by adding your own stubs.  The format is as follows:
+## Configuration
+Alter the mappings.json file by adding your own stubs.  The format is as follows:
 
 ``` json
 
