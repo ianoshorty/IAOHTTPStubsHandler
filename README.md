@@ -68,13 +68,13 @@ Alter the mappings.json file by adding your own stubs.  The format is as follows
 A small iPhone example is inside the project to demo functionality.
 
 ## Creator
-*[Ian Outterside](http://www.twitter.com/ianoshorty)
+ - [Ian Outterside](http://www.twitter.com/ianoshorty)
 
 ## Credits
 In addition to the creator, the following are credited:
 
-*[Olivier Halligon - AliSoftware/OHHTTPStubs](https://github.com/AliSoftware/OHHTTPStubs)
-*[AFNetworking](https://github.com/AFNetworking/AFNetworking)
+ - [Olivier Halligon - AliSoftware/OHHTTPStubs](https://github.com/AliSoftware/OHHTTPStubs)
+ - [AFNetworking](https://github.com/AFNetworking/AFNetworking)
 
 ## License
 A Licence file is included.  Code is completely Open Source, just give me a credit if you use ;).
