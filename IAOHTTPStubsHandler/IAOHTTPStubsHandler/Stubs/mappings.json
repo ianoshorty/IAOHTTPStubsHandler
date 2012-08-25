@@ -1,0 +1,11 @@
+{
+	"https://graph.facebook.com/19292868552" : {
+		"file" : "file1.json",
+		"response_code" : 200,
+		"response_speed" : "OHHTTPStubsDownloadSpeedWifi",
+		"content_type" : "text/json"
+	},
+	"http://photos-e.ak.fbcdn.net/hphotos-ak-ash4/5041_98423808305_6704612_s.jpg" : {
+		"file" : "file2.jpg",
+	}
+}
